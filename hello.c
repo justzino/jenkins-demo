@@ -2,6 +2,6 @@
 
 int main(){
   printf("<h1>Hello, Hongik</h1>\n");
-  printf("testing...");
+  printf("수정완료");
   return 0;
 }
